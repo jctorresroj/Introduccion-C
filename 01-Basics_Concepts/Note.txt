@@ -1,0 +1,15 @@
+			# Jueves 10 de febrero del 2022
+
+OpenFOAM -FEM
+Cualquier programa tiene tres etapas, pre-procesamiento, ejecución, post-procesamiento
+
+	source
+	ejecutables de source -- .pin en ubuntu
+
+Editor de texto Sublime
+
+Tarea:
+	* Archivos  .pin
+	* Hilos en computación
+	* History
+	* paraView
