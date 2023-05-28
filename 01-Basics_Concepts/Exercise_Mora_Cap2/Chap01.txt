@@ -1,0 +1,21 @@
+				Chap 1 Introduccion
+				
+A continuacion se presenta un resumen del primer cap del libro.
+
+     Al momento de escribir el libro en el 2009 se utilizaba y aun se sigue utilizando mucho el lenguaje  de Fortran,  sin  embargo,
+     en el medio estudiantil colombiano se suele conocer mas C o C++, debido a la gran  abundancia de  sistemas  operativos de  Win-
+     dows lo cual facilito el conocimiento del C y C++.
+
+     Por otra parte, C es considera un lenguaje de nivel medio, es decir, utiliza al mismo tiempo caracteristicas de lenguajes   de
+     alto nivel y propiedades cercanas al lenguaje de maquina (Lo que implica que el programador debe ser mas cuidadoso).  Asimismo
+     C++ es  considerada una extension/mejora de C, luego,  C++ acepta casi todo lo que es valido en C, pero el inverso no es cier-
+     to. Para finalizar se deben mensionar las bondades que ofrece escribir programas en C o C++, como: Disponibilidad,  Portabili-
+     dad, Eficiencia y Bibliotecas.
+
+     Este libro No se puede considerar como un libro exhaustivo de programacion debido a la ausencia de temas como: Clases o   pro-
+     gramacio orientada a objetos y tampoco tiene el objetivo de convertir detallado de  metodos numericos. Es un libro de para in-
+     troducir al estudiante en el mundo de la computacion cientifica.
+
+
+
+
