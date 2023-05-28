@@ -1,0 +1,20 @@
+					02 Generalidades
+
+Programar consiste en crear un archivo de texto este se va a llamar  Programa Fuente o el Codigo, el
+cual tiene la extension .c o .cpp. Asimismo  dicho programa fuente se puede escribir en cualquier
+editor de texto. Sin embardo,este programa fuente debe estar acorde con la sintxis de C, una vez
+construidala primera version del programa fuente, es necesario utilizar el compilador. el cual re-
+visa si el programa cumple con las normas de C. En caso de existir errores el compilador produce
+mensajes indicando el tipo de error y la linea donde se ha detectado. Entonces el programador debe
+corregir repitiendo este proceso las veces que sea necesario. Si no ha errores, se crea un archivo
+ejecutable que esta en lenguaje de maquina, el cual realiza la tarea escrita por el programador.
+
+Al momento de ejecutar los archivos creados con las 3 diferentes extensiones:
+   + Para C
+     gcc filename.c -o filename.x
+   + Para C++
+     g++ filename.cpp -o filename.x
+   + Para Python
+     python filename.py
+
+A diferencia de los C o C++, Python no genera un ejecutable debido a que es un lenguaje interpretado
